@@ -1,14 +1,12 @@
 {
   "files": {
-    "main.css": "https://redwolf-zh.github.io/bbk-games/static/css/main.48d709bc.css",
-    "main.js": "https://redwolf-zh.github.io/bbk-games/static/js/main.a1ff3309.js",
-    "static/media/cross.png": "https://redwolf-zh.github.io/bbk-games/static/media/cross.320f9b613c684cd19267.png",
-    "index.html": "https://redwolf-zh.github.io/bbk-games/index.html",
-    "main.48d709bc.css.map": "https://redwolf-zh.github.io/bbk-games/static/css/main.48d709bc.css.map",
-    "main.a1ff3309.js.map": "https://redwolf-zh.github.io/bbk-games/static/js/main.a1ff3309.js.map"
+    "main.css": "//redwolf-zh.github.io/bbk-games/static/css/main.49cd0240.css",
+    "main.js": "//redwolf-zh.github.io/bbk-games/static/js/main.58639926.js",
+    "static/media/cross.png": "//redwolf-zh.github.io/bbk-games/static/media/cross.320f9b613c684cd19267.png",
+    "index.html": "//redwolf-zh.github.io/bbk-games/index.html"
   },
   "entrypoints": [
-    "static/css/main.48d709bc.css",
-    "static/js/main.a1ff3309.js"
+    "static/css/main.49cd0240.css",
+    "static/js/main.58639926.js"
   ]
 }
