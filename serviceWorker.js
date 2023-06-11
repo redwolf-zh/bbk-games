@@ -1,4 +1,4 @@
-var CACHE_VERSION = "cache_v0.0.1";
+var CACHE_VERSION = "cache_v0.0.2";
 var COMMON_CACHE_VERSION = "common_cache_v0.0.1";
 var whiteSourceUrlList = ["/click.mp3"];
 
